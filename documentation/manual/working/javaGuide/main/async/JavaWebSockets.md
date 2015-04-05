@@ -64,7 +64,7 @@ A WebSocket has access to the request headers (from the HTTP request that initia
 
 When the `WebSocket` is ready, you get both `in` and `out` channels.
 
-It this example, we print each message to console and we send a single **Hello!** message.
+In this example, we print each message to console and we send a single **Hello!** message.
 
 > **Tip:** You can test your WebSocket controller on <http://websocket.org/echo.html>. Just set the location to `ws://localhost:9000`.
 
